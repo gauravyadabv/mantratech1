@@ -215,7 +215,7 @@ $heroSlides = getHeroSlides($conn);
 $gallery = getGallery($conn);
 
 // Company info
-$companyName = "doIT.np";
+$companyName = "mantratech";
 $companySlogan = "We deliver what you need";
 $companyEmail = "info@doit.np";
 $companyPhone = "+977 9800000000";
